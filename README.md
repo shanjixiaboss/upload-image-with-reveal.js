@@ -1,2 +1,1 @@
-### use reveal.js && html mark simple & beautiful web ppt 
-
+reveal.js实现ppt描述几种上传方式
